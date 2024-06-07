@@ -1,0 +1,14 @@
+streamlit
+transformers 
+GPT2LMHeadModel
+GPT2Tokenizer
+pandas
+numpy
+tensorflow.keras.models
+load_model
+sklearn.preprocessing
+LabelEncoder
+tensorflow.keras.preprocessing.text
+Tokenizer
+tensorflow.keras.preprocessing.sequence
+pad_sequences
